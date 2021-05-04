@@ -1,0 +1,5 @@
+data_ready: false
+data_stream: CE09OSPM-WFP01-02-DOFSTK000-telemetered-dofst_k_wfp_instrument
+last_request: '2021-05-04T22:40:28.730028Z'
+response: https://raw.githubusercontent.com/ooi-data/CE09OSPM-WFP01-02-DOFSTK000-telemetered-dofst_k_wfp_instrument/main/history/response.json
+status: pending
