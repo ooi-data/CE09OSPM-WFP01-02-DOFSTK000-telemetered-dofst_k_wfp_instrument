@@ -1,0 +1,6 @@
+data_location: s3://ooi-data/CE09OSPM-WFP01-02-DOFSTK000-telemetered-dofst_k_wfp_instrument
+data_stream: CE09OSPM-WFP01-02-DOFSTK000-telemetered-dofst_k_wfp_instrument
+end_date: '2021-05-02T16:22:06.667Z'
+last_updated: '2021-05-05T03:49:06.996052Z'
+start_date: '2014-04-19T03:00:12.000Z'
+status: pending
